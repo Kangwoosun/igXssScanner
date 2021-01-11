@@ -13,4 +13,5 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('hi')
+    print('콩나물국밥')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
